@@ -1,6 +1,6 @@
 # Classroom Ops
 
-**Classroom Ops** is a small but deliberate **full-stack classroom operations** playground: a teacher-oriented workspace for creating and maintaining **classroom records**, with **audited changes**, a **typed REST API**, and a **Next.js** UI that talks to it over HTTP. It is built as an **evolving personal project**—strong on backend structure and local ergonomics, not a finished SaaS product.
+**Classroom Ops** is a small but deliberate **full-stack classroom operations** playground: a teacher-oriented workspace for creating and maintaining **classroom records**, with **audited changes**, a **typed REST API**, and a **Next.js** UI that talks to it over HTTP.
 
 ```mermaid
 flowchart TB
